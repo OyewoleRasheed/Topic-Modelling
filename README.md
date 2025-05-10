@@ -81,7 +81,7 @@ Topic 4 (Naive Bayes / Classification):
 | -------------------------------------------- | ---------------------------- |
 | "Data analysis is the process of inspecting" | Machine Learning             |
 | "Multinomial Naive Bayes algorithm..."       | Naive Bayes / Classification |
-| "News categorized into politics and sports"  | Python / Data                |
+| "python, data, learning, using, learn"       | Python / Data                |
 
 ---
 
